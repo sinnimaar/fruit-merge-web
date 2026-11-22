@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795337988|34407190451';
+const CACHE_VERSION = '1795340215|36605227321';
 /** @type {string} */
 const CACHE_PREFIX = 'fruit merge-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
